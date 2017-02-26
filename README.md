@@ -1,4 +1,3 @@
-# Project MeatyOar
 This is a website (hosted on yhscs.us) to help schools and, in turn, students in need of supplies.
 
 Done for the APCS Service Learning Project at Yorkville High School. Work is done (usually) in [Atom IDE](https://atom.io/)

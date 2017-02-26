@@ -16,6 +16,9 @@ See this [list](/PROGRESS.md) for details
 - [ ] Generate mySQL Database for Usernames and Passwords
 - [ ] Generate mySQL Database for Supplies
 
+### I Want To Help
+Great! Fork this code, make your changes, and make a pull request. All help is greatly appreciated. You might even get added to the Team Members section!
+
 ### Team Members
 - Brogan (mySQL Databases)
 - Jason (PHP and JavaScript)

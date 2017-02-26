@@ -18,6 +18,9 @@ See this [list](/PROGRESS.md) for details
 
 ### I Want To Help
 Great! Fork this code, make your changes, and make a pull request. All help is greatly appreciated. You might even get added to the Team Members section!
+##### Sections that need the most help right now:
+- Creating a page for this repository (using GitHub Pages)
+- Help Getting Started
 
 ### Team Members
 - Brogan (mySQL Databases)

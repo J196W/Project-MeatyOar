@@ -33,8 +33,7 @@ nav {
 
 nav a {
 	display: block;
-	/*margin: 0 1em;
-	padding: .5em 1em;*/
+	padding: .5em 0;
 	text-decoration: none;
 	border-left: 4px solid #6e91a1;
 }

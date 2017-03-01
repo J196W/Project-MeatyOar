@@ -26,28 +26,28 @@ header {
 }
 
 nav {
-	width: 12%;
+	width: 18%;
 	float: left;
+	padding: 1%;
 }
 
 nav a {
 	display: block;
-	margin: 0 1em;
-	padding: .5em 1em;
+	padding: .5em 0;
 	text-decoration: none;
 	border-left: 4px solid #6e91a1;
 }
 
 nav a:hover {
 	border-left: 4px solid #032536;
-	
+
 }
 
 main {
-	width: 84%;
+	width: 77%;
 	float: right;
-	margin-right: 1em;
-	padding: 1em;
+	margin-right: 1%;
+	padding: 1%;
 	background-color: #477286;
 }
 

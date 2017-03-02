@@ -71,6 +71,19 @@ main form button {
 	margin: .5em 2em;
 }
 
+input[type=submit], button {
+	width:100%;
+	background-color:#032637;
+	color:#fff;
+	border:2px solid #000;
+	padding:10px;
+	font-size:20px;
+	cursor:pointer;
+	border-radius:5px;
+	margin:6px 0 0;
+	box-sizing: border-box;
+}
+
 footer {
 	clear: both;
 	text-align: center;

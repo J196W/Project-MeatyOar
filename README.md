@@ -4,7 +4,7 @@ This is a website (hosted on yhscs.us) to help schools and, in turn, students in
 Done for the APCS Service Learning Project at Yorkville High School. Work is done (usually) in [Atom IDE](https://atom.io/)
 
 ### Current Stage of Development
-Beginning. Nothing has been done yet.
+A page exists and so does a style sheet. Not much else
 
 See this [list](/PROGRESS.md) for details
 
@@ -18,8 +18,9 @@ See this [list](/PROGRESS.md) for details
 ### I Want To Help
 Great! Fork this code, make your changes, and make a pull request. All help is greatly appreciated. You might even get added to the Team Members section!
 ##### Sections that need the most help right now:
-- Creating a page for this repository (using GitHub Pages)
-- Help Getting Started
+- PHP Classes
+- HTML Page layout
+- Communication between PHP and mySQL
 
 ### Team Members
 - Brogan (mySQL Databases)

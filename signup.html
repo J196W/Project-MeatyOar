@@ -2,7 +2,7 @@
 <html>
 	<head>
     	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Sign-Up :: Meaty-Oar</title>
+		<title>Sign-Up :: MeatyOar</title>
 		<link rel="stylesheet" type="text/css" href="./css/style.css" />
 		<link rel="shortcut icon" type="text/x-icon" href="./images/favicon.png" />
 		<script type="text/js"></script>
@@ -11,7 +11,7 @@
 	<body>
 		<div id="wrapper">
 			<header>
-				<h1>Project Meaty-Oar</h1>
+				<h1>Project MeatyOar</h1>
 			</header>
 
 			<nav>
@@ -24,15 +24,87 @@
 			<main>
 				<h2>Sign Up</h2>
 				<form>
-					<input type="button" value="Student" />
-					<input type="button" value="School" />
-					<input type="button" value="Organization" />
+					<input type="submit" value="Student" />
+					<input type="submit" value="School" />
+					<input type="submit" value="Organization" />
+
+					<fieldset id="student">
+						<legend>Student</legend>
+						<label>Unique Username</label>
+						<input type="text" />
+
+						<label>First Name</label>
+						<input type="text" />
+
+						<label>Last Name</label>
+						<input type="text" />
+
+						<label>Strong Password</label>
+						<input type="password" />
+
+						<label>Retype Password</label>
+						<input type="password" />
+
+						<label>School ID</label>
+						<input type="number" min="10000" max="99999" />
+
+						<input type="submit" value="Sign Up" />
+					</fieldset>
+
+					<fieldset id="school">
+						<legend>School</legend>
+						<label>School Name</label>
+						<input type="text" />
+
+						<label>Email</label>
+						<input type="text" />
+
+						<label>Strong Password</label>
+						<input type="password" />
+
+						<label>Retype Password</label>
+						<input type="password" />
+
+						<label>Address (Number &amp; Street)</label>
+						<input type="text" />
+
+						<label>Address (City)</label>
+						<input type="text" />
+
+						<label>Address (State Abbr)</label>
+						<input type="text" />
+
+						<label>Address (Zip Code)</label>
+						<input type="text" />
+
+						<label>Country</label>
+						<input typ="text" />
+
+						<input type="submit" value="Sign Up" />
+					</fieldset>
+
+					<fieldset id="organization">
+						<legend>Organization</legend>
+						<label>Organization Name</label>
+						<input type="text" />
+
+						<label>Email</label>
+						<input type="text" />
+
+						<label>Strong Password</label>
+						<input type="password" />
+
+						<label>Retype Password</label>
+						<input type="password" />
+
+						<input type="submit" value="Sign Up" />
+					</fieldset>
 				</form>
 			</main>
 
 			<footer>
 				<a href="http://yhscs.us">YHS Computer Science</a><br /><br />
-				<p>~ Project Meaty-Oar; Service Learning ~</p>
+				<p>~ Project MeatyOar; Service Learning ~</p>
 			</footer>
 		</div>
 	</body>

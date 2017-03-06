@@ -82,17 +82,36 @@ input[type=submit], button {
 	border-radius: 5px;
 	margin: 6px 0 0;
 	box-sizing: border-box;
-}
-
-input[type=text], input[type=password] {
-	
-}
-
-label, input {
 	display: block;
 }
 
+input[type=text], input[type=password], select {
+	width: 98%;
+	border: 2px solid #000;
+	border-radius: 5px;
+	margin: 6px 0 0;
+	font-size: 32px;
+	padding: .1em;
+	display: block;
+}
+
+select {
+	width: 100%;
+}
+
+label {
+	display: block;
+	font-size: 20px;
+	margin-top: .5em;
+}
+
+legend {
+	font-size: 24px;
+}
+
 fieldset {
+	border: 0;
+	margin-top: .5em;
 }
 
 footer {

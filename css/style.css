@@ -33,7 +33,7 @@ nav {
 
 nav a {
 	display: block;
-	padding: .5em 0;
+	padding: .5em 1em;
 	text-decoration: none;
 	border-left: 4px solid #6e91a1;
 }
@@ -72,16 +72,27 @@ main form button {
 }
 
 input[type=submit], button {
-	width:100%;
-	background-color:#032637;
-	color:#fff;
-	border:2px solid #000;
-	padding:10px;
-	font-size:20px;
-	cursor:pointer;
-	border-radius:5px;
-	margin:6px 0 0;
+	width: 100%;
+	background-color: #032637;
+	color: #fff;
+	border: 2px solid #000;
+	padding: 10px;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 5px;
+	margin: 6px 0 0;
 	box-sizing: border-box;
+}
+
+input[type=text], input[type=password] {
+	
+}
+
+label, input {
+	display: block;
+}
+
+fieldset {
 }
 
 footer {
